@@ -1,0 +1,16 @@
+var dayQuestions = [
+	{
+		"title" : "Go tech free for an hour."
+		"date": /// FORMATTED DATE /// 
+		"questions": [
+			{
+				"title": "Did you go tech-free for an hour today?",
+				"type": "boolean"
+			},
+			{
+				"title": "Did you go tech-free for an hour today?",
+				"type": "boolean"
+			},
+
+	},
+]
